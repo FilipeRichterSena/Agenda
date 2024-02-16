@@ -1,0 +1,5 @@
+package com.br.agenda.rest;
+
+public class UserResource {
+
+}
